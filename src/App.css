@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: yellow;
+}
+
+textarea {
+  border-width: 10px;
+  background-color: turquoise;
+}
